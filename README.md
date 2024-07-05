@@ -1,1 +1,1 @@
-bgm by [Bolor](https://github.com/bolorierie)
+bgm dy [Bolor](https://github.com/bolorierie)
